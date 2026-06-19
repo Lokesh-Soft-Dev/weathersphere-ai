@@ -51,6 +51,6 @@ VITE_WEATHER_API_KEY=YOUR_API_KEY
 
 ## 👨‍💻 Author
 
-## Lokesh K
+###   Lokesh K
 
-## 🔗 LinkedIN : https://www.linkedin.com/in/lokesh-k-990496378/
+### 🔗 LinkedIN : https://www.linkedin.com/in/lokesh-k-990496378/
