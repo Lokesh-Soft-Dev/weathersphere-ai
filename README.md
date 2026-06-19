@@ -38,6 +38,8 @@ A futuristic AI-powered weather dashboard built using React, Vite, Framer Motion
 
 <img width="475" height="379" alt="Screenshot 2026-06-19 074147" src="https://github.com/user-attachments/assets/7c279d9b-2e19-4ac8-b5ab-957980fb7cc0" />
 
+<img width="477" height="445" alt="image" src="https://github.com/user-attachments/assets/6ed1a762-e847-4ed6-8f0d-2c5e50b7cce6" />
+
 
 ## ⚙️ Installation
 
